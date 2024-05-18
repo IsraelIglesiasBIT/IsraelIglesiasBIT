@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I´m Israel Iglesias, CTO in [Transferencia24](https://transferencia24.com) and [Momentum Games](https://momentumgames.io).
+I´m Israel Iglesias, CTO in [Transferencia24](https://transferencia24.com).
 I love writing software!
 <img align="right" src="https://momentumgames.io/img/logo.png" height="30">
 <img align="right" src="https://transferencia24.com/assets/img/logo_transferencia24_footer.webp" height="30"> 
