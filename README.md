@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-I´m Israel Iglesias, CTO in [Transferencia24](https://transferencia24.com).
-I love writing software!
+I´m Israel Iglesias, CTO in [T24](https://transferencia24.com) and [/conwork](https://conwork.io).
 
-<img align="right" src="https://transferencia24.com/assets/img/logo_transferencia24_footer.webp" height="30"> 
- 
+**I love writing software! 🚀**
+
+<div>
+ <img align="center" src="https://transferencia24.com/assets/img/logo_transferencia24_white.svg" height="30"> 
+ <img align="center" src="https://conwork.tech/wp-content/themes/conwork-final/resources/images/LOGO.svg" height="90" > 
+</div>
 
 [![Linkedin: IsraelIglesias](https://img.shields.io/badge/-israeliglesias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israeliglesias/)](https://www.linkedin.com/in/IsraelIglesias/)
 ![GitHub followers](https://img.shields.io/github/followers/IsraelIglesiasBIT?label=IsraelIglesias&style=social)
